@@ -19,13 +19,13 @@ Program yang kami buat adalah sebuah program yang digunakan untuk melakukan tran
  3. Untuk melakukan Checkout pilih Menu Checkout pada menu utama kemudian akan menampilkan daftar kamar yang sudah terisi dan inputkan nomor kamar dan selesai, kamar akan checkout dan dapat di isi dengan tamu yang baru
 
 # Demo Program
-
+Demo Program
  1. Tambah Kamar
- ![enter image description here](https://s2.gifyu.com/images/pbo1.gif)
+![enter image description here](https://s2.gifyu.com/images/pbo1.gif)
  2. Tambah Tamu
- ![enter image description here](https://s2.gifyu.com/images/pbo2.gif)
+![enter image description here](https://s2.gifyu.com/images/pbo2.gif)
  3. Checkout
- ![enter image description here](https://s2.gifyu.com/images/pbo3.gif)
+![enter image description here](https://s2.gifyu.com/images/pbo3.gif)
 
 # Class Diagram
 ![enter image description here](https://i.ibb.co/Yf3KL3r/Class-Diagram-Hotel-2-1.png)
