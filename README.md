@@ -11,6 +11,15 @@ Kelompok kami beranggotakan :
 # Deskripsi Program
 Program yang kami buat adalah sebuah program yang digunakan untuk melakukan transaksi penginapan hotel, dimana user dari program ini adalah seorang kasir hotel yang melakukan input data kamar dan input data tamu. Program ini akan memudahkan kasir hotel dalam melakukan transaksi hotel, dimana kasir dapat melihat kamar yang terisi dan kamar yang masih kosong, kemudian program ini dapat melakukan perhitungan langsung dengan mudah.
 
+# Latar Belakang
+Pergi berlibur keluar kota merupakan suatu cara untuk menyegarkan diri dari kondisi-kondisi yang membebankan pikiran. Jika berlibur ke daerah yang baru tentunya memerlukan tempat untuk ditinggali selama beberapa hari. Hotel merupakan tempat yang menyediakan jasa pelayanan penginapan, makan dan minum serta jasa lainnya bagi masyarakat umum. 
+Seringkali pihak hotel mendapatkan masalah dalam melakukan pemesanan kamar hotel yang tidak terdaftar, double booking atau kamar yang di pesan penuh. Hal ini merugikan hotel dari sisi pelayanan terhadap pelanggan, dan membuat sistem kacau. Oleh karena itu adanya otomatisasi teknologi input data yang memudahkan pihak hotel dalam mendata pemesanan kamar, check out, check in, booking, maupun penambahan pelayanan lainnya. Namun sering kali juga sistem yang otomatis tersebut tidak akurat, sehingga banyak muncul permasalahan. Oleh karena itu kami membuat progam penginputan manual yang terkomputerisasi dimana bagian bagiannya sudah terstruktur rapi untuk setiap segmen playanan, baik dari pemesanan kamar, jumlah tamu, hingga check out. Dan dapat diedit jika ada kesalahan dalam proses reservasi, sehingga masalah dapat diatasi dengan mudah dan dapat di koreksi baik dari sistem maupun secara manual. Jadi baik dari sistem maupun operator dapat mengetahui data-datanya, sehingga dapat meminimalisasi terjadinya suatu masalah seperti yang di deskripsikan sebelumnya.
+
+# Tujuan
+
+ 1. Program dapat digunakan untuk melakukan transaksi penginapan hotel, dimana user dari program ini adalah seorang kasir hotel yang melakukan input data kamar dan input data tamu. 
+ 2. Program dapat digunakan untuk memudahkan kasir hotel dalam melakukan transaksi hotel, dimana kasir dapat melihat kamar yang terisi dan kamar yang masih kosong, kemudian program ini dapat melakukan perhitungan langsung dengan mudah.
+
 
 # Tutorial Penggunaan Program
 
